@@ -106,6 +106,7 @@ To prevent this, `aiohttp` was used to perform non-blocking API requests.
 async with aiohttp.ClientSession() as session:
     async with session.post(api_url, headers=headers, data=payload) as res:
         text = await res.text()
+```
 This allows scraping tasks to run concurrently without interrupting bot responsiveness.
 
 ---
