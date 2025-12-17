@@ -1,4 +1,5 @@
 📄 한국어 문서는 README_KR.md를 참고하세요.
+📝 Detailed development notes are available on my blog: https://blog.naver.com/d_soohwan/223847244143
 
 # Extracurricular Program Notification Bot
 
