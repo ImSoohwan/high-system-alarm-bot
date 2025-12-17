@@ -1,5 +1,7 @@
 📄 For the English version, please refer to README.md.
 
+📝 자세한 개발 과정은 블로그에 정리되어 있습니다: https://blog.naver.com/d_soohwan/223847244143
+
 # 비교과 프로그램 공지 알림 봇
 
 대학교 비교과 프로그램 공지 웹사이트를 모니터링하여, 특정 키워드가 포함된 공지가 게시될 경우 Discord로 실시간 알림을 전송하는 Python 기반 알림 시스템입니다.  
