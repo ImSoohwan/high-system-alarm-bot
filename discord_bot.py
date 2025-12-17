@@ -4,12 +4,12 @@ import asyncio
 from scraper import start_scraping
 from datetime import datetime
 
-TOKEN = '...'
+TOKEN = '' #YOUR BOT TOKEN HERE
 KEYWORDS = []
 COOLTIME = 600
 CURRENT_COOLTIME = 0
 IS_RUNNING = False
-CHANNEL_ID = ...
+CHANNEL_ID = #CHANNEL ID FOR BOT MESSEGE HERE
 MENTION_USER = None
 
 intents = discord.Intents.default()
